@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=bw-yashhemantpatil&color=green)
+
+### My stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=bw-yashhemantpatil&theme=vue-dark&exclude_days=Sun%2CSat&card_width=595)]()
