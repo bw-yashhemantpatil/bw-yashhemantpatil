@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 
 ### My stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=bw-yashhemantpatil&theme=vue-dark&exclude_days=Sun%2CSat&card_width=595)]()
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bw-yashhemantpatil/bw-yashhemantpatil/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bw-yashhemantpatil/bw-yashhemantpatil/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bw-yashhemantpatil/bw-yashhemantpatil/output/github-contribution-grid-snake.svg">
+</picture>
